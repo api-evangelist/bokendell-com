@@ -1,4 +1,4 @@
-# bokendell-com
+# Bo Kendell
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,119 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-bokendell-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://bokendell.com/
+Bo Kendell is a software engineer building backend and AI agent solutions at BambooHR, creating social products for SMBs, and maintaining personal projects like a voice‑driven golf scoring app, a public API portfolio, and a CLI. He focuses on honest, typed contracts, real error models, and measurable behavior, while enjoying golf, surfing, and staying current with industry trends.
+
+**Areas:** Software Engineer · Backend · AI · OpenAPI · MCP
+
+## Bo Kendell on APIs.io
+
+Everything profiled for Bo Kendell is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bokendell-com/](https://apis.io/providers/bokendell-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (12)
+
+- [Bo Kendell Activity API](https://apis.io/apis/bokendell-com/bokendell-com-activity-api/) — The Activity API from Bo Kendell — 6 operation(s) for activity.
+- [Bo Kendell AI API](https://apis.io/apis/bokendell-com/bokendell-com-ai-api/) — The AI API from Bo Kendell — 5 operation(s) for ai.
+- [Bo Kendell Contacts API](https://apis.io/apis/bokendell-com/bokendell-com-contacts-api/) — The Contacts API from Bo Kendell — 1 operation(s) for contacts.
+- [Bo Kendell Events API](https://apis.io/apis/bokendell-com/bokendell-com-events-api/) — The Events API from Bo Kendell — 2 operation(s) for events.
+- [Bo Kendell Health API](https://apis.io/apis/bokendell-com/bokendell-com-health-api/) — The Health API from Bo Kendell — 1 operation(s) for health.
+- [Bo Kendell Profile API](https://apis.io/apis/bokendell-com/bokendell-com-profile-api/) — The Profile API from Bo Kendell — 2 operation(s) for profile.
+- [Bo Kendell Projects API](https://apis.io/apis/bokendell-com/bokendell-com-projects-api/) — The Projects API from Bo Kendell — 4 operation(s) for projects.
+- [Bo Kendell Resume API](https://apis.io/apis/bokendell-com/bokendell-com-resume-api/) — The Resume API from Bo Kendell — 1 operation(s) for resume.
+- [Bo Kendell Social Links API](https://apis.io/apis/bokendell-com/bokendell-com-social-links-api/) — The Social Links API from Bo Kendell — 2 operation(s) for social links.
+- [Bo Kendell Tags API](https://apis.io/apis/bokendell-com/bokendell-com-tags-api/) — The Tags API from Bo Kendell — 1 operation(s) for tags.
+- [Bo Kendell Technologies API](https://apis.io/apis/bokendell-com/bokendell-com-technologies-api/) — The Technologies API from Bo Kendell — 3 operation(s) for technologies.
+- [Bo Kendell Writing API](https://apis.io/apis/bokendell-com/bokendell-com-writing-api/) — The Writing API from Bo Kendell — 2 operation(s) for writing.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Bokendell Com Agentic Access](https://apis.io/agentic-access/bokendell-com/bokendell-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Bokendell Com Context](https://apis.io/jsonld/bokendell-com/bokendell-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Bo Kendell API Rules](https://apis.io/rules/bokendell-com/bokendell-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bokendell Com Authentication](https://apis.io/security/bokendell-com/bokendell-com-authentication/)
+- [Bokendell Com Domain Security](https://apis.io/security/bokendell-com/bokendell-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bokendell.com/)
+- [API reference](https://bokendell.com/reference)
+- [Privacy policy](https://bokendell.com/privacy)
+- [GitHub](https://github.com/bokendell)
+
+## API Evangelist rating
+
+**Kin Score 37.9** — thin · rubric 0.26.0 · scored 2026-11-03
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 49.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 35.0 |
+| Access clarity | 10.5 |
+
+**Agent readiness 41.8** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 19.1** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bokendell-com/](https://apis.io/providers/bokendell-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bo Kendell: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bokendell-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
